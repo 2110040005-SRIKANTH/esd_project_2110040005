@@ -1,4 +1,8 @@
 University ID      Name
 2110040005         Gudi Srikanth
+<<<<<<< HEAD
 2110040022         Bommidi Sathvik
+=======
+2110040024         Kotha Ajay Kumar
+>>>>>>> 6aa8075a332bb53c57c2531fadcd53521822b2f5
 2110040042         Kurma Srujan
